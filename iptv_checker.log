@@ -1,0 +1,99 @@
+2025-08-12 10:13:47,484 - INFO - Enhanced IPTV Checker initialized:
+2025-08-12 10:13:47,484 - INFO -   - Max workers: 10
+2025-08-12 10:13:47,484 - INFO -   - Batch size: 50
+2025-08-12 10:13:47,484 - INFO -   - Timeout: 10s
+2025-08-12 10:13:47,484 - INFO -   - Memory limit: 2048MB
+2025-08-12 10:13:47,484 - INFO - Downloading M3U8 playlist (attempt 1/3)...
+2025-08-12 10:13:47,822 - INFO - Successfully downloaded M3U8 playlist (13611 characters)
+2025-08-12 10:13:47,822 - INFO - Parsing M3U8 content...
+2025-08-12 10:13:47,823 - INFO - Parsed 69 channels from M3U8 playlist
+2025-08-12 10:13:47,823 - INFO - Testing 69 streams in batches of 50...
+2025-08-12 10:13:47,823 - INFO - Processing batch 1/2 (channels 1-50)
+2025-08-12 10:13:48,072 - INFO - Tested: 湖南都市                           | Failed          | 0.25s
+2025-08-12 10:13:48,094 - INFO - Tested: 湖南经视                           | Working         | 0.27s
+2025-08-12 10:13:48,100 - INFO - Tested: 湖南爱晚                           | Working         | 0.28s
+2025-08-12 10:13:48,108 - INFO - Tested: 湖南娱乐频道                         | Working         | 0.28s
+2025-08-12 10:13:48,113 - INFO - Tested: 湖南国际频道                         | Working         | 0.28s
+2025-08-12 10:13:48,117 - INFO - Tested: 金鹰纪实频道                         | Working         | 0.29s
+2025-08-12 10:13:48,150 - INFO - Tested: 湖南电视剧                          | Working         | 0.32s
+2025-08-12 10:13:48,217 - INFO - Tested: 金鹰卡通                           | Working         | 0.39s
+2025-08-12 10:13:48,520 - INFO - Tested: Good                           | Working         | 0.30s
+2025-08-12 10:13:48,607 - INFO - Progress: 10/69 (14.5%) | Rate: 12.8/s | ETA: 0.1min
+2025-08-12 10:13:48,607 - INFO - Tested: Good 2                         | Working         | 0.09s
+2025-08-12 10:13:48,792 - INFO - Tested: Pet Club TV                    | Working         | 0.72s
+2025-08-12 10:13:48,909 - INFO - Tested: Beautiful Life TV              | Working         | 0.30s
+2025-08-12 10:13:49,404 - INFO - Tested: Supreme Master TV              | Working         | 0.61s
+2025-08-12 10:13:49,697 - INFO - Tested: Taiwan Plus TV                 | Working         | 0.29s
+2025-08-12 10:13:49,936 - INFO - Tested: TVB News                       | Working         | 1.79s
+2025-08-12 10:13:49,972 - INFO - Tested: Genius Go Go Go                | Working         | 0.27s
+2025-08-12 10:13:50,248 - INFO - Tested: DaAi 1                         | Failed          | 0.31s
+2025-08-12 10:13:50,293 - INFO - Tested: DaAi 2                         | Failed          | 0.32s
+2025-08-12 10:13:50,303 - INFO - Tested: TVBS-Asia                      | Working         | 1.39s
+2025-08-12 10:13:50,402 - INFO - Progress: 20/69 (29.0%) | Rate: 7.8/s | ETA: 0.1min
+2025-08-12 10:13:50,403 - INFO - Tested: Dali TV                        | Working         | 0.15s
+2025-08-12 10:13:50,588 - INFO - Tested: CTi News                       | Working         | 0.28s
+2025-08-12 10:13:50,844 - INFO - Tested: Global News                    | Working         | 0.26s
+2025-08-12 10:13:50,962 - INFO - Tested: HKS                            | Working         | 2.85s
+2025-08-12 10:13:53,413 - INFO - Tested: TTV News                       | Failed          | 2.45s
+2025-08-12 10:13:53,414 - INFO - Tested: SET iNews                      | Failed          | 2.57s
+2025-08-12 10:13:53,420 - INFO - Tested: FTV News                       | Failed          | 3.02s
+2025-08-12 10:13:53,422 - INFO - Tested: EBC YOYO                       | Failed          | 3.13s
+2025-08-12 10:13:53,437 - INFO - Tested: mnews                          | Failed          | 0.02s
+2025-08-12 10:13:53,454 - INFO - Tested: 寰宇新闻台                          | Working         | 0.03s
+2025-08-12 10:13:53,671 - INFO - Progress: 30/69 (43.5%) | Rate: 5.1/s | ETA: 0.1min
+2025-08-12 10:13:53,672 - INFO - Tested: ET Mall 60                     | Working         | 0.26s
+2025-08-12 10:13:53,686 - INFO - Tested: 东森财经新闻                         | Working         | 0.26s
+2025-08-12 10:13:53,712 - INFO - Tested: Momo 2                         | Working         | 0.26s
+2025-08-12 10:13:53,725 - INFO - Tested: Momo 1                         | Working         | 0.29s
+2025-08-12 10:13:53,933 - INFO - Tested: 信大                             | Working         | 0.26s
+2025-08-12 10:13:53,952 - INFO - Tested: DW                             | Working         | 0.27s
+2025-08-12 10:13:53,967 - INFO - Tested: 中视新闻                           | Working         | 0.26s
+2025-08-12 10:13:53,994 - INFO - Tested: NU                             | Working         | 0.27s
+2025-08-12 10:13:54,196 - INFO - Tested: NU2                            | Working         | 0.26s
+2025-08-12 10:13:54,209 - INFO - Tested: 华视HD                           | Working         | 0.26s
+2025-08-12 10:13:54,234 - INFO - Progress: 40/69 (58.0%) | Rate: 6.2/s | ETA: 0.1min
+2025-08-12 10:13:54,234 - INFO - Tested: JP1                            | Working         | 0.27s
+2025-08-12 10:13:54,251 - INFO - Tested: KPop                           | Working         | 0.26s
+2025-08-12 10:13:54,388 - INFO - Tested: CCTV-4K 高清                     | Working         | 0.18s
+2025-08-12 10:13:54,465 - INFO - Tested: 民视新闻HD                         | Working         | 0.27s
+2025-08-12 10:13:57,837 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x105c38160>, 'Connection to 120.196.232.43 timed out. (connect timeout=10)')': /rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
+2025-08-12 10:13:57,837 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x105c10f50>, 'Connection to 61.244.22.4 timed out. (connect timeout=10)')': /ch1/ch1.live/playlist.m3u8
+2025-08-12 10:13:58,096 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x105c11150>, 'Connection to 210.210.155.37 timed out. (connect timeout=10)')': /dr9445/h/h03/index.m3u8
+2025-08-12 10:13:58,102 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x105b47e50>, 'Connection to 210.210.155.37 timed out. (connect timeout=10)')': /dr9445/h/h07/index.m3u8
+2025-08-12 10:13:58,115 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x105c11550>, 'Connection to 210.210.155.37 timed out. (connect timeout=10)')': /dr9445/h/h14/index.m3u8
+2025-08-12 10:13:58,119 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x105c11650>, 'Connection to 210.210.155.37 timed out. (connect timeout=10)')': /dr9445/h/h21/index.m3u8
+2025-08-12 10:14:04,236 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x105c11e50>, 'Connection to 183.196.25.171 timed out. (connect timeout=10)')': /hls/77/index.m3u8
+2025-08-12 10:14:07,839 - INFO - Tested: 澳门卫视                           | Timeout         | 10.00s
+2025-08-12 10:14:07,840 - INFO - Tested: 湖南卫视                           | Timeout         | 10.00s
+2025-08-12 10:14:08,100 - INFO - Tested: Bloomberg TV Asia              | Timeout         | 10.00s
+2025-08-12 10:14:08,105 - INFO - Tested: KIX                            | Timeout         | 10.00s
+2025-08-12 10:14:08,117 - INFO - Tested: Celestial Movies               | Timeout         | 10.00s
+2025-08-12 10:14:08,121 - INFO - Tested: tvN Movies Asia                | Timeout         | 10.00s
+2025-08-12 10:14:14,386 - INFO - Progress: 50/69 (72.5%) | Rate: 1.9/s | ETA: 0.2min
+2025-08-12 10:14:14,386 - INFO - Tested: CCTV-8 电视剧                     | Timeout         | 10.00s
+2025-08-12 10:14:14,487 - INFO - Processing batch 2/2 (channels 51-69)
+2025-08-12 10:14:15,232 - INFO - Tested: 东方卫视                           | Working         | 0.74s
+2025-08-12 10:14:15,319 - INFO - Tested: 重庆卫视                           | Working         | 0.83s
+2025-08-12 10:14:15,735 - INFO - Tested: CCTV-16 4K                     | Working         | 1.25s
+2025-08-12 10:14:16,006 - INFO - Tested: 天津卫视                           | Working         | 1.52s
+2025-08-12 10:14:16,136 - INFO - Tested: 河南卫视                           | Working         | 0.40s
+2025-08-12 10:14:16,514 - INFO - Tested: 广东卫视                           | Working         | 0.51s
+2025-08-12 10:14:16,567 - INFO - Tested: 河北卫视                           | Working         | 0.43s
+2025-08-12 10:14:16,648 - INFO - Tested: CGNT 记录频道                      | Working         | 2.16s
+2025-08-12 10:14:16,667 - INFO - Tested: CGNT 新闻频道                      | Working         | 2.18s
+2025-08-12 10:14:16,902 - INFO - Progress: 60/69 (87.0%) | Rate: 2.1/s | ETA: 0.1min
+2025-08-12 10:14:16,902 - INFO - Tested: 云南卫视                           | Working         | 1.67s
+2025-08-12 10:14:16,942 - INFO - Tested: 辽宁卫视                           | Working         | 2.45s
+2025-08-12 10:14:17,022 - INFO - Tested: 广西卫视                           | Working         | 0.51s
+2025-08-12 10:14:17,202 - INFO - Tested: 甘肃卫视                           | Working         | 0.53s
+2025-08-12 10:14:17,304 - INFO - Tested: 陕西卫视                           | Working         | 0.74s
+2025-08-12 10:14:18,066 - INFO - Tested: CCTV-15 音乐                     | Working         | 3.58s
+2025-08-12 10:14:18,445 - INFO - Tested: 西藏卫视                           | Working         | 1.80s
+2025-08-12 10:14:18,916 - INFO - Tested: 四川卫视                           | Working         | 3.60s
+2025-08-12 10:14:24,492 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x105b47b50>, 'Connection to 183.196.25.171 timed out. (connect timeout=10)')': /hls/11/index.m3u8
+2025-08-12 10:14:24,493 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x105c12150>, 'Connection to 183.196.25.171 timed out. (connect timeout=10)')': /hls/93/index.m3u8
+2025-08-12 10:14:34,496 - INFO - Tested: CCTV-17 农业农村                   | Timeout         | 10.00s
+2025-08-12 10:14:34,496 - INFO - Tested: CCTV-11 戏曲                     | Timeout         | 10.00s
+2025-08-12 10:14:34,497 - INFO - Completed testing 69 streams in 46.7s (avg: 0.68s per stream)
+2025-08-12 10:14:34,497 - INFO - Saving detailed report to iptv_test_report_20250812_101434.xlsx...
+2025-08-12 10:14:34,606 - INFO - Detailed report saved to iptv_test_report_20250812_101434.xlsx
